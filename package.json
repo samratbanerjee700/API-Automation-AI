@@ -1,0 +1,25 @@
+{
+  "name": "api-automation-ai",
+  "version": "1.0.0",
+  "description": "Create an API automation framework with AI driven approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samratbanerjee700/API-Automation-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samratbanerjee700/API-Automation-AI/issues"
+  },
+  "homepage": "https://github.com/samratbanerjee700/API-Automation-AI#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
